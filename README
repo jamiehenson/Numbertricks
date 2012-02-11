@@ -1,0 +1,17 @@
+Numbertricks.
+(C) Jamie Henson 2011
+
+So far, this program can find these things about a number:
+- its factors
+- whether it is a perfect number
+- the primes that come before it
+- how many primes come before it
+- whether it is prime itself
+- its product of primes representation (optimised)
+- whether it is a triangular number
+- whether it is a square number
+- whether it is part of the Fibonacci sequence
+- the factorial version of it
+
+Next on the list:
+- whether it is part of next week's lottery numbers
